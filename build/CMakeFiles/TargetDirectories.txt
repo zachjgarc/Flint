@@ -1,0 +1,3 @@
+/Users/zacharygarcia/Desktop/Code/Flint/build/CMakeFiles/flint.dir
+/Users/zacharygarcia/Desktop/Code/Flint/build/CMakeFiles/edit_cache.dir
+/Users/zacharygarcia/Desktop/Code/Flint/build/CMakeFiles/rebuild_cache.dir
